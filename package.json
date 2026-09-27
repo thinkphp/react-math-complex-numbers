@@ -1,5 +1,5 @@
 {
-  "name": "complex-calculator",
+  "name": "react-math-complex-numbers",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -15,7 +15,6 @@
     "react-dom": "^19.3.0"
   },
   "devDependencies": {
-    "vite": "^7.0.0",
-    "@vitejs/plugin-react": "^6.1.1",
+    "vite": "^7.0.0"
   }
 }
